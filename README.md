@@ -28,3 +28,5 @@ There are not many rules:
 - Feel free to use any tools you like and find useful,
 - Ask us if you have any questions,
 - The project should not take more than a couple of hours, if it is taking much longer than that please ask us about it and/or feel free to stop with a partial result.
+
+Thank You!
